@@ -1,4 +1,3 @@
-<img width="1570" height="769" alt="Screenshot 2025-08-25 112311" src="https://github.com/user-attachments/assets/3f8de338-693a-4dda-aac6-d5d8320360dc" /># Ex03 To-Do List using JavaScript
 ## Date:25.08.2025
 
 ## AIM
